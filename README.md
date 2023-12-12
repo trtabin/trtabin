@@ -7,7 +7,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=trtabin&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=trtabin&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=trtabin&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=trtabin&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
+[![Tabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trtabin&show_icons=true&count_private=true&hide=contribs&theme=radical)](https://github.com/trtabin)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=trtabin&limit=5&theme=dark&combine_all_yearly_contributions=true)
